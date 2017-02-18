@@ -10,7 +10,7 @@
 
 1. The Association’s Objects (aka: purposes) are:
    1. To promote and nurture the Maker Community in the Liverpool City Region.
-      1. “Makers” are considered to be individuals who create tangible objects that exhibit creativity and technical skill, and who encourage others to do the same.
+      1. “Makers” are considered to be individuals who create i) tangible objects and/or ii) intangible objects that exhibit creativity and technical skill, and who encourage others to do the same.
       2. The “Maker Community” can include, but is not limited to, artists, builders, crafters, designers, engineers, and hobbyists, who interact with each other as part of their creative pursuits.
    2. To run a free, annual festival for Makers, in Liverpool.
       1. The festival must be free to attend.
@@ -32,7 +32,7 @@
 2. Members shall be appointed to the office of Trustee—or Trustees removed from office—either by a majority vote of Trustees at a Trustee Meeting, or by a majority vote of Members at a General Meeting.
 3. In order to carry out the Objects of the Association, the Trustees have the power to:
    1. Raise funds, and receive grants and donations.
-   2. Apply funds to carry out the work of the charity.
+   2. Apply funds to carry out the work of the Association.
    3. Co-operate with and support other charities or associations with similar purposes.
    4. Do anything which is lawful and necessary to achieve the Objects of the Association.
 
@@ -53,7 +53,7 @@
 # 6. Trustee Meetings
 
 1. Any Trustee may call a meeting of the Trustees.
-2. At the beginning of a General Meeting, a Chairperson shall be selected by majority vote amongst the Trustees present.
+2. At the beginning of a Trustees Meeting, a Chairperson shall be selected by majority vote amongst the Trustees present.
 3. If votes need to be held when making decisions at a Trustee Meeting:
    1. Each Trustee shall have one vote.
    2. A vote must be held by secret ballot if at least one Trustee requests it.
@@ -69,4 +69,3 @@
 
 1. This Constitution shall be stored in such a way that it is accessible to all Members, and also to the general public.
 2. Minutes shall be taken at all General Meetings and Trustee Meetings, and shall be made available to all Members.
-
