@@ -26,7 +26,7 @@ We agree that:
 
 1. Membership as a MakeFest organiser is open to anyone who is willing to support the work of Liverpool MakeFest, and abide by the rules in this document.
 2. Members can do anything in their power to further MakeFest’s core objectives—like raising funds, receiving grants and donations, opening a bank account, or spending funds—as long as they don’t break the law, and they accept personal responsibility for the outcome.
-3. Members *cannot* receive any money or property from makeFest, except to refund reasonable out-of-pocket expenses.
+3. Members *cannot* receive any money or property from MakeFest, except to refund reasonable out-of-pocket expenses.
 4. Members must treat each other with respect and professionalism. Bullying, violence, and discrimination will not be accepted under any circumstances. Be awesome to each other.
 5. Anyone can stop being a member at any time, providing they give notice and hand over their responsibilities and work-in-progress, as soon as possible, and to the best of their ability.
 
